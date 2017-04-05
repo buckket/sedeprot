@@ -1,0 +1,10 @@
+sedeprot
+~~~~~~~~
+
+A self-enforcing protocol for collaborative decision-making
+    
+Based on a proposal by erlehmann and Katharin Tai:
+http://daten.dieweltistgarnichtso.net/tmp/docs/collaborative-decision-making.html
+
+License:
+GPLv3+

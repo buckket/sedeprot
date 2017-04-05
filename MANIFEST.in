@@ -1,0 +1,3 @@
+include LICENSE README Makefile test_sedeprot.py
+
+global-exclude *.py[cdo] __pycache__ *.so .DS_Store
